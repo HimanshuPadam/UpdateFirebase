@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839764331139",
+    "project_id": "update-50968",
+    "storage_bucket": "update-50968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839764331139:android:999e8bf3d4a9d1506629b6",
+        "android_client_info": {
+          "package_name": "com.example.updatefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQVQx1Y1tH6L4pumhXh4I22bN2E5ilr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
